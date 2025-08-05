@@ -1,6 +1,6 @@
-- I’m an IT Enthusiast
-- I’m interesting on Programming, Cybersecurity and IT Support
-- I'm currently engaged in a deep dive program for IT Support
+- I’m a self-taught Software Developer
+- I’m interesting on Programming
+- I'm currently engaged in a deep dive Python Language
 - https://www.linkedin.com/in/agriana-abdul-goni-708534186/
 
 <!---
